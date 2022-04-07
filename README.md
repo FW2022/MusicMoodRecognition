@@ -17,15 +17,15 @@ Music Mood Recognition은 입력받은 건반음을 5가지의 무드(분위기)
  - 2022년 3월 30일 현재, Librosa를 통한 MFCC, Energy 등의 std, mean, min, max와 Spotify에서 기본적으로 제공하는 tempo, speechiness, loudness, danceability, acousticness, instrumentalness 등을 결합하여 5가지 Mood(Happy, Sad, Romance, Relaxing, Dark)로 곡을 분류할 수 있다.
  - 또한 해당 5가지 Spotify 플레이리스트 중 선택된 플리의 곡 하나를 랜덤으로 재생할 수 있다.
  
- (Spotify Happy Playlist : https://open.spotify.com/playlist/)
+ (Spotify Happy Playlist : https://open.spotify.com/playlist/2mu4kG7W1LVjDh8SsxZBLF)
  
- (Spotify Relax Playlist : https://open.spotify.com/playlist/)
+ (Spotify Relaxing Playlist : https://open.spotify.com/playlist/37i9dQZF1DWVFeEut75IAL)
  
- (Spotify Happy Playlist : https://open.spotify.com/playlist/)
+ (Spotify Romance Playlist : https://open.spotify.com/playlist/37i9dQZF1DX4s3V2rTswzO)
  
- (Spotify Happy Playlist : https://open.spotify.com/playlist/)
+ (Spotify Sad Playlist : https://open.spotify.com/playlist/37i9dQZF1DXbm0dp7JzNeL)
  
- (Spotify Happy Playlist : https://open.spotify.com/playlist/)
+ (Spotify Dark Playlist : https://open.spotify.com/playlist/37i9dQZF1DWSw8liJZcPOI)
  
  ![image](https://github.com/FW2022/MusicMoodRecognition/blob/main/Pic/MusicMoodClassify.png)
  ![image](https://github.com/FW2022/MusicMoodRecognition/blob/main/Pic/MusicMoodClassify2.png)
