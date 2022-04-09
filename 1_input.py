@@ -11,10 +11,10 @@ def readInput(input_device, channel):
     while True:
         if input_device.poll():
             event = input_device.read(1)[0] # [state, note(음), velocity(속도), something(always 0 for me)]
-            print(event)
-            print("//")
+            #print(event)
+            #print("//")
             data = event[0]
-            print(data)
+            #print(data)
             timestamp = event[1]
             note = event[0][1]
             print(note)
@@ -31,10 +31,13 @@ def readInput(input_device, channel):
             if all(el in pressed for el in [36, 40, 43, 46]):
                 print("chord = Cmaj7")
                 '''
-        if count == 10 :
+            if count%2 == 0:
+                degrees.pop()
+        if count == 50 :
             print(degrees)
             midi_generator(degrees)
             break
+
 
 def midi_generator(degrees) : #https://midiutil.readthedocs.io/en/1.2.1/를 들어가서 git clone 후 setup.py 설치 요망
     # degrees = [] # MIDI note number
@@ -42,7 +45,7 @@ def midi_generator(degrees) : #https://midiutil.readthedocs.io/en/1.2.1/를 들�
     channel = 1 # piano
     time = 0  # In beats
     duration = 1  # In beats
-    tempo = 60  # In BPM
+    tempo = 120  # In BPM , base = 60
     volume = 100  # 0-127, as per the MIDI standard
     MyMIDI = MIDIFile(1)  # One track, defaults to format 1 (tempo track
     # automatically created)
