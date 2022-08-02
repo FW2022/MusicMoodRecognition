@@ -73,15 +73,15 @@ Music Mood Recognition은 입력받은 건반음을 5가지의 무드(분위기)
 ## Contributors
 <table>
   <tr>
-    <td align="center">
-    <a href="https://github.com/Junst">
-        <img src="https://avatars.githubusercontent.com/u/30133053?v=4" width="150px;" alt=""/>
+      <td align="center">
+    <a>
+        <img src="https://avatars.githubusercontent.com/u/30133053?v=4" width="150px;" alt="" href="https://github.com/Junst"/>
         <br />
         <sub>
-            <b>< 고준영 ></b>
+            <a href="https://github.com/Junst"><b>< 고준영 ></b></a>
             <br />
-            음악 분류 모델 개발 <br />
-            미니어처 분류 모델 개발
+            <a href="https://github.com/FW2022/MusicMoodRecognition"> 음악 분류 모델 개발</a> <br />
+            <a href="https://github.com/FW2022/Realsense_SSD_Model"> 미니어처 분류 모델 개발 </a>
         </sub>
     </a>
 </td>
