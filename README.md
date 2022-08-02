@@ -27,7 +27,7 @@
 <img src="https://github.com/omizha/Space4U-client/blob/master/docs/img/ExhibitionProcess2.png?raw=true">
 
 
-# MusicMoodRecognition
+# Music Mood Recognition
 
 ![image](https://github.com/FW2022/MusicMoodRecognition/blob/main/Pic/Diagram_MusicMoodRecog.jpg)
 
