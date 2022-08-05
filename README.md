@@ -73,6 +73,12 @@ Music Mood Recognition은 입력받은 건반음을 5가지의 무드(분위기)
 
 숭실대학교 글로벌미디어학부 졸업전시회, FROMPROM 2022의 출품작입니다.
 
+유튜브 / YouTube Results Video
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_XkQStYTKdE/0.jpg)](https://www.youtube.com/watch?v=_XkQStYTKdE)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8xDn0njgrVI/0.jpg)](https://www.youtube.com/watch?v=8xDn0njgrVI)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/zDbmDN8v4uI/0.jpg)](https://www.youtube.com/watch?v=zDbmDN8v4uI)
+
 ## Contributors
 <table>
   <tr>
